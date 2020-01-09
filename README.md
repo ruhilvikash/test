@@ -1,3 +1,3 @@
 
-> ***@deprecated - This library is been deprecated. Now you should be using the new one. [link](/http://google.com "Click Here")***
+> ***@deprecated - This library is been deprecated. Now you should be using the new one. [Click Here](https://github.com/cbdr/cut "Cut")***
 
